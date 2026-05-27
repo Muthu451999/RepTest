@@ -3,4 +3,5 @@ Git TestDemo Line2- master
 Git TestDemo Line three3- master
 Featurebarnch create- feature local
 Featurebarnch modification- master remote
+Confict modify in master
 Conflict modify in featurebranch
